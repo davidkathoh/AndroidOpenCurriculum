@@ -1,3 +1,35 @@
+## Adding yourself to the [Contributors Section](Contributors.md)
+
+Please use the following format for your bio in the contributors section:
+    Copy/Paste start:
+    
+  **Name:** YOUR NAME   
+  **Contributions:** e.g. Translations and Proofreading  
+  **Bio:** Whatever you'd like to say about yourself.  
+
+  **Contact:**
+  * [Social Link 1](https://www.facebook.com/wiseassblog/)
+  * [Social Link 2](https://twitter.com/wiseass301)
+  * [Social Link 3](https://www.linkedin.com/in/ryan-kay-808388114)
+  * [Personal/Organization Website Link](http://wiseassblog.com/)  
+   
+  Copy/Paste end.  
+    
+  **Admin Note on links:** You may include three social media links, and a link to a personal/organization website. You may not link directly to a product.
+
+
+## Translations:
+Currently, translations of the curriculum will exist in different branches in order to avoid bloating the main repository too bad. The naming convention for these branches is as follows:
+curriculum-<two character language code>
+
+For example:
+"curriculum-fr" - French
+"curriculum-es" - Spanish
+
+For more information, search ISO 639-1 for the two-character code of your particular language.
+
+Please include a README in the root folder of the branch, which should be a translation of the original README from the master branch. However, do not translate the Contribution_Guide or Contributors; I do not wish to maintain those files in different languages. 
+
 ## Style Guide:
 
 ### Be Impersonal
